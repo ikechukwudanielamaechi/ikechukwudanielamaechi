@@ -7,6 +7,7 @@ I’m a Computer Engineering graduate building practical skills in Artificial In
 I’m documenting my journey from Python foundations to building and deploying real AI systems.
 
 ⸻
+- LinkedIn: [linkedin.com/in/ikechukwudanielamaechi](https://linkedin.com/in/IkechukwuDanielAmaechi)
 
 🎯 Current Focus
 
